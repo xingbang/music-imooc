@@ -1,5 +1,5 @@
 .playlist-container{
-  width: 200rpx;
+  width: 220rpx;
   position: relative;
   padding: 0 0 20rpx 0;
 }

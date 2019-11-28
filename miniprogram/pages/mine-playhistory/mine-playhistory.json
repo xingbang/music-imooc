@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "x-musiclist": "/components/musiclist/musiclist"
+  },
+  "navigationBarTitleText": "播放历史"
+}
